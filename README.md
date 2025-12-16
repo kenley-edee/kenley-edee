@@ -1,16 +1,30 @@
-## Hi there 👋
+# Kenley Edee
 
-<!--
-**kenley-edee/kenley-edee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Support Technician | Cybersecurity Professional
 
-Here are some ideas to get you started:
+I am an IT Support Technician and cybersecurity professional with a completed Associate of Science degree in Cybersecurity & Network Engineering Technology. I bring hands-on experience supporting Windows environments, administering Active Directory, troubleshooting network and system issues, and applying cybersecurity best practices in real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong foundation in technical support, system administration, networking, and cloud security fundamentals, and I am actively advancing my education at the bachelor’s level.
+
+### Education
+- **Associate of Science in Cybersecurity & Network Engineering Technology – Cloud Infrastructure Security**  
+  Valencia College
+
+- **Bachelor of Science in Cybersecurity** *(In Progress)*  
+  University of Maine at Augusta
+
+---
+
+## Technical Skills
+- **Operating Systems:** Windows 10/11, Windows Server, Linux  
+- **System Administration:** Active Directory, DNS, DHCP, Group Policy  
+- **Networking:** TCP/IP, LAN/WAN, VLANs, Wireshark    
+- **Cloud:** Cloud security fundamentals, virtual machines  
+- **Support:** Troubleshooting, user support, documentation, customer service  
+
+---
+
+## Portfolio
+- [Projects](projects.md)
+- [Resume](resume.md)
+- [Contact](contact.md)
